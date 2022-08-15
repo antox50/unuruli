@@ -22,9 +22,5 @@
     "quick.js": "^1.0.0",
     "youtube-sr": "^2.0.5",
     "ytdl-core": "github:fent/node-ytdl-core#d1f535712410eebd79a7468abd07d94f8c4ebe5a"
-  },
-  "engines":{
-    "node": "16.10.x"
   }
-
 }

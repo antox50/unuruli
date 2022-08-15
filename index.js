@@ -45,4 +45,4 @@ client.on('voiceStateUpdate', (old, New) => {
 
 
 
-client.login(process.env.token)
+client.login(token)
